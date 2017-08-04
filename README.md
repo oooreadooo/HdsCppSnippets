@@ -13,7 +13,8 @@ This extension for Visual Studio Code adds snippets for C/C++.
 ## Usage
    
    For demo:
-   input "for" at c or cpp file, press the tab key,and the FOR loop snippet（在c或者cpp文件中输入for，选择列表的for 代码片段，再按下tab，下面的for语句就出来了)   
+   input "for" at c or cpp file, press the tab key,and the FOR loop snippet（在c或者cpp文件中输入for，
+   选择列表的for 代码片段，再按下tab，下面的for语句就出来了)   
    for(index = 0;index < length;index++)
    {
 
