@@ -1,4 +1,4 @@
-# C/C++ Snippets
+ï»¿# C/C++ Snippets
 This extension for Visual Studio Code adds snippets for C/C++.
 
 ## Installation
@@ -13,19 +13,19 @@ This extension for Visual Studio Code adds snippets for C/C++.
 ## Usage
    
    For demo:
-   input "for" at c or cpp file, press the tab key,and the FOR loop snippet£¨ÔÚc»òÕßcppÎÄ¼şÖĞÊäÈëfor£¬Ñ¡ÔñÁĞ±íµÄfor ´úÂëÆ¬¶Î£¬ÔÙ°´ÏÂtab£¬ÏÂÃæµÄforÓï¾ä¾Í³öÀ´ÁË)   
+   input "for" at c or cpp file, press the tab key,and the FOR loop snippetï¼ˆåœ¨cæˆ–è€…cppæ–‡ä»¶ä¸­è¾“å…¥forï¼Œé€‰æ‹©åˆ—è¡¨çš„for ä»£ç ç‰‡æ®µï¼Œå†æŒ‰ä¸‹tabï¼Œä¸‹é¢çš„forè¯­å¥å°±å‡ºæ¥äº†)   
    for(index = 0;index < length;index++)
    {
 
    }
    come out.
-   then,Äã¿ÉÒÔÍ¨¹ıtabÒÆ¶¯¹â±ê£¬Äã¿ÉÒÔ¸Ä±äindex£¬²»¸Ä±ä°´tab¼´¿É
+   then,ä½ å¯ä»¥é€šè¿‡tabç§»åŠ¨å…‰æ ‡ï¼Œä½ å¯ä»¥æ”¹å˜indexï¼Œä¸æ”¹å˜æŒ‰tabå³å¯
 
    The following is a list of the snippets
 
    for C or C++:
 
-   prefix(¼òĞ´)  preview note of snippet(´úÂëÆ¬¶ÎÔ¤ÀÀËµÃ÷) 
+   prefix(ç®€å†™)  preview note of snippet(ä»£ç ç‰‡æ®µé¢„è§ˆè¯´æ˜) 
    fori         for(i = 0;i < length;i++){}
    fo           for(index = 0;index < length;index++)
    for          for(index = 0;index < length;index++)
@@ -70,7 +70,7 @@ This extension for Visual Studio Code adds snippets for C/C++.
    size         sizeof(name)
 
    only for C++:
-   prefix(¼òĞ´)  preview note of snippet(´úÂëÆ¬¶ÎÔ¤ÀÀËµÃ÷)   
+   prefix(ç®€å†™)  preview note of snippet(ä»£ç ç‰‡æ®µé¢„è§ˆè¯´æ˜)   
    cla          class:{public:private:}
    class        class:{public:private:}
    namespace    namespace MyNamespace{}
