@@ -1,6 +1,7 @@
 ﻿# C/C++ Snippets
 This extension for Visual Studio Code adds snippets for C/C++.
 
+
 ## Installation
 
 1. Install Visual Studio Code 0.10.1 or higher
@@ -83,5 +84,7 @@ This extension for Visual Studio Code adds snippets for C/C++.
    static_ca    static_cast<type>(obj)
    dynamic_ca   dynamic_cast<type>(obj);
    const_ca     const_cast<type>(obj);
-   reint        reinterpret_cast<type>(obj);</pre>
-
+   reint        reinterpret_cast<type>(obj);
+</pre>
+
+
