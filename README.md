@@ -83,6 +83,3 @@ This extension for Visual Studio Code adds snippets for C/C++.
    const_ca     const_cast<type>(obj);
    reint        reinterpret_cast<type>(obj);
 
-
-   
-}
