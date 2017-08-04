@@ -19,13 +19,13 @@ This extension for Visual Studio Code adds snippets for C/C++.
 
    }
    come out.
-   then,你可以通过tab移动光标，你可以改变index，不改变按tab即可    .
+   then,你可以通过tab移动光标，你可以改变index，不改变按tab即可
 
    The following is a list of the snippets
 
    for C or C++:
 
-   prefix(简写)  preview note of snippet(代码片段预览说明) .
+   prefix(简写)  preview note of snippet(代码片段预览说明) 
    fori         for(i = 0;i < length;i++){}
    fo           for(index = 0;index < length;index++)
    for          for(index = 0;index < length;index++)
@@ -70,7 +70,7 @@ This extension for Visual Studio Code adds snippets for C/C++.
    size         sizeof(name)
 
    only for C++:
-   prefix(简写)  preview note of snippet(代码片段预览说明)     .
+   prefix(简写)  preview note of snippet(代码片段预览说明)   
    cla          class:{public:private:}
    class        class:{public:private:}
    namespace    namespace MyNamespace{}
