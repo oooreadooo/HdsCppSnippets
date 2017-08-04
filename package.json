@@ -1,0 +1,35 @@
+{
+    "name": "HdsCppSnippets",
+    "publisher": "hds",
+    "displayName": "Hds's C/C++Snippets",
+    "description": "Code snippets for C/C++",
+    "version": "0.0.1",
+    "engines": {
+		"vscode": "^0.10.1"
+	},
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+		"snippets": [
+			{
+			"language": "c",
+			"path": "./snippets/c_hds.json"
+            },
+			{
+			"language": "cpp",
+			"path": "./snippets/cpp_hds.json"
+			}
+		]
+	},
+    "galleryBanner": { 
+        "color": "#E6E0EA", 
+        "theme": "light" 
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/one-harsh/vscode-c-cpp-snippets"
+    },
+    "icon": "images/cpp.png",
+    "license": "Check in License in the root folder"
+}
