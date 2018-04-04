@@ -225,17 +225,7 @@
 	"mai": {
 		"prefix": "mai",
 		"body": [
-			"void main(int argc,char argc[])",
-			"{",
-			"    $1",
-			"}"
-		],
-		"description": "void main(int argc,char argc[]){}"
-	},
-	"main": {
-		"prefix": "main",
-		"body": [
-			"void main(int argc,char argc[])",
+			"int main(int argc, char *argv[])",
 			"{",
 			"    $1",
 			"}"
