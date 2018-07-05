@@ -231,7 +231,7 @@
 			"    $1",
 			"}"
 		],
-		"description": "void main(int argc,char argc[]){}"
+		"description": "void main(int argc,char* argv[]){}"
 	},
 	"switch": {
 		"prefix": "sw",
