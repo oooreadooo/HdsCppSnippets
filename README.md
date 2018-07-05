@@ -16,7 +16,7 @@ This extension for Visual Studio Code adds snippets for C/C++.
    
    For demo:
    input "for" at c or cpp file, press the tab key,and the FOR loop snippet（在c或者cpp文件中输入for，
-   选择列表的for 代码片段，再按下tab，下面的for语句就出来了)   
+   选择列表的for 代码片段，再按下tab，下面的for语句就出来了)
    for(index = 0;index < length;index++)
    {
 
@@ -53,8 +53,8 @@ This extension for Visual Studio Code adds snippets for C/C++.
    ch           char* str = "msg"
    st           char* str = "msg"
    inc          #include <>
-   mai          void main(int argc,char argc[]){}
-   main         void main(int argc,char argc[]){}
+   mai          void main(int argc,char *argv[]){}
+   main         void main(int argc,char *argv[]){}
    sw           switch(){case:breadk;default:break}
    switch       switch(){case:breadk;default:break}
    ca           case:break;
@@ -73,7 +73,7 @@ This extension for Visual Studio Code adds snippets for C/C++.
    size         sizeof(name)
 
    only for C++:
-   prefix(简写)  preview note of snippet(代码片段预览说明)   
+   prefix(简写)  preview note of snippet(代码片段预览说明)
    cla          class:{public:private:}
    class        class:{public:private:}
    namespace    namespace MyNamespace{}
