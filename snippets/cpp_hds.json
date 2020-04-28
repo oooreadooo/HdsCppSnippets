@@ -486,9 +486,9 @@
 	"cin": {
 		"prefix": "cin",
 		"body": [
-			"std::cin << $1;"
+			"std::cin >> $1;"
 		],
-		"description": "std::cin << name;"
+		"description": "std::cin >> name;"
 	},
 	"iostream": {
 		"prefix": "iost",
